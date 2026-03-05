@@ -1,0 +1,4 @@
+*.h5
+*.save
+__pycache__/
+tempCodeRunnerFile.py
